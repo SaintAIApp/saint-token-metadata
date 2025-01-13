@@ -1,0 +1,7 @@
+{
+  "name": "Saint Token",
+  "symbol": "STT",
+  "description": "The official testnet token for Saint Token.",
+  "image": "https://github.com/SaintAIApp/saint-token-metadata/blob/main/Saint-Logomark-CMYK-GreenFullColour%20(1).png?raw=true",
+  "decimals": 9
+}
